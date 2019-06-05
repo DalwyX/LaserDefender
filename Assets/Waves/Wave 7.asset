@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c55045ae834ac54595248bf82e3c926, type: 3}
+  m_Name: Wave 7
+  m_EditorClassIdentifier: 
+  startDelay: 3
+  endDelay: 1
+  firstThreadEnemy: {fileID: 1542676471439356, guid: 6953339230b552d45b106f8924ef0d2e,
+    type: 2}
+  firstThreadPath: {fileID: 1961787715931778, guid: 131dbdec961862d4ba380e19c3c9456b,
+    type: 2}
+  firstThreadNumberOfEnemies: 10
+  firstThreadStartingDelay: 0
+  firstThreadSpawnDelay: 2
+  secondThreadIsActive: 0
+  secondThreadEnemy: {fileID: 1402259865157404, guid: e0cab0b7f02777f47a80188416ca860f,
+    type: 2}
+  secondThreadPath: {fileID: 1493060979878486, guid: 93624e021e2407e4c9aad8958533f9b9,
+    type: 2}
+  secondThreadNumberOfEnemies: 12
+  secondThreadStartingDelay: 16
+  secondThreadSpawnDelay: 0.8
+  thirdThreadIsActive: 0
+  thirdThreadEnemy: {fileID: 1458374591322792, guid: 3780f34198f1664449d4e262a2c12072,
+    type: 2}
+  thirdThreadPath: {fileID: 1413468961378262, guid: 61942067e630a0642b21710f22b8dd33,
+    type: 2}
+  thirdThreadNumberOfEnemies: 8
+  thirdThreadStartingDelay: 20
+  thirdThreadSpawnDelay: 0.4
+  fourthThreadIsActive: 0
+  fourthThreadEnemy: {fileID: 1285868439570028, guid: e9b7688b8baab2342af8dae6ef2c375b,
+    type: 2}
+  fourthThreadPath: {fileID: 1977794395788992, guid: 31e2b6400706e3d43a14a5a26124f0ee,
+    type: 2}
+  fourthThreadNumberOfEnemies: 4
+  fourthThreadStartingDelay: 22
+  fourthThreadSpawnDelay: 1
